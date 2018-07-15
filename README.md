@@ -34,11 +34,11 @@ check you have Perl v5.10.1 (or anything compatible, it was written and tested i
 
 Either:
 from the command line, in the directory where the perl script is located;
-./fasta_to_fastq.pl
+<code>./fasta_to_fastq.pl</code>
 
 OR
 
-perl ./fasta_to_fastq.pl
+<code>perl ./fasta_to_fastq.pl</code>
 
 To get the first method to work, you may have to change the file permissions to make it executable
 
